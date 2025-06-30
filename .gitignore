@@ -1,7 +1,0 @@
-# Ignore build folders and temporary files
-build/
-dist/
-nbbuild/
-nbproject/private/
-*.class
-*.log
